@@ -51,5 +51,4 @@ This project teaches me Python fundamentals through real building:
 
 ---
 
-**Started**: Day 1 of 6-month commitment  
-**Goal**: Remote job as Python/DevOps engineer by Month 6
+
